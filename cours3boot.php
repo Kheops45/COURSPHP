@@ -24,7 +24,7 @@
   
 
   <div class="row">
-  <div class="col-md-6 bg-success bg-opacity-50 rounded-3 fs-4">
+  <div class="col-md-6 bg-danger-subtle rounded-3 fs-4">
   
     Le type « chaine de caractères » ou String en anglais ;</br>
     Le type « nombre entier » ou Integer en anglais ;</br>
@@ -40,7 +40,7 @@
       </div>
 
 
-     <div class="col-md-6 fs-4 bg-info bg-opacity-50 rounded-3">
+     <div class="col-md-6 fs-4 bg-success-subtle rounded-3">
 
      <h1>Exemples variables</h1>
         <?php
