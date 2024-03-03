@@ -13,9 +13,54 @@
 <?php
 echo '<h5 class="text-center mt-2" > Menu avec include </h5> <br>';
 include 'cours11include.php';
+/*include  'tot.php';*/
+
+/*La fonction include() renverra une erreur de type WARNING si elle n'arrive pas à ouvrir le fichier en question. 
+De ce fait l'exécution du code qui suit dans la page sera exécuté. 
+
+La fonction require() affichera une erreur de type FATAL qui interrompt l'exécution du script. */
+
+
 ?>
 
- 
+<div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://paradisinfos.com/imgap/e1.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://paradisinfos.com/imgap/e2.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://paradisinfos.com/imgap/e3.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://paradisinfos.com/imgap/e4.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 

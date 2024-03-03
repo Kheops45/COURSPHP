@@ -10,9 +10,12 @@
 <body>
 
 
-<nav class="navbar navbar-expand-lg bg-success-subtle">
-  <div class="container-fluid">
-   
+<nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">">
+  <div class="container-fluid ">
+  <a class="navbar-brand" href="#">
+      <img src="https://paradisinfos.com/imgap/pyra.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+   </a>
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
