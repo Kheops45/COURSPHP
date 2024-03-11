@@ -49,7 +49,7 @@ echo 'Mysql','<br><br>';
 ?>
 
 <div class="alert alert-danger text-center" role="alert">
-<?php echo 'Salaire Moyen d\'un Dev junior : 2 333,33 € * 12 Mois : ',2333.33*12,' Euros';?>
+<?php echo '<h5>Salaire Moyen d\'un Dev junior : 2 333,33 € * 12 Mois : ',2333.33*12,' Euros </h5>';?>
 </div>
 
 
